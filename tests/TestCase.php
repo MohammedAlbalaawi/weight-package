@@ -3,8 +3,8 @@
 namespace MohammedAlbalaawi\WeightPackage\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use MohammedAlbalaawi\WeightPackage\WeightPackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

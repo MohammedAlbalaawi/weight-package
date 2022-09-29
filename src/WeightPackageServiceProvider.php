@@ -2,9 +2,9 @@
 
 namespace MohammedAlbalaawi\WeightPackage;
 
+use MohammedAlbalaawi\WeightPackage\Commands\WeightPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use MohammedAlbalaawi\WeightPackage\Commands\WeightPackageCommand;
 
 class WeightPackageServiceProvider extends PackageServiceProvider
 {
